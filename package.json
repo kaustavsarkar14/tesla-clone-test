@@ -2,7 +2,7 @@
   "name": "tesla",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kaustavsarkar14.github.io/Tesla-Clone",
+  "homepage": "http://kaustavsarkar14.github.io/tesla-clone",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
